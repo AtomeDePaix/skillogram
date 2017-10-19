@@ -1,3 +1,8 @@
-&copy echo date ('Y');
-</head>
-      </html>
+<div class="footer">
+   <?php
+   echo '&copy';
+   echo date ('Y');
+   ?>
+</div>
+</body>
+</html>
